@@ -197,13 +197,13 @@ cpna,Which AB InBev brands have the highest promo pressure in the 'YTD TY' perio
 cpna,How does the base rate of sales for the 'PREMIUM LAGER' sub-brand compare across different areas in 'MAT TY'?,Simple
 cpna,"What are the top 3 brands by promo volume in the 'WHEAT BEERS' segment during 'LP TY', and how does this correlate with their market share?",Complex
 cpna,How does the percentage change in volume sales from 'LP YA' to 'LP TY' compare between the 'FLAVORED' and 'STRONG BLONDE' segments in 'Omnichannel'?,Simple
-cpna,"What is the average price to consumer for 'MORETTI' across different pack types in 'YTD TY', and how does it impact its volume sales?",Complex
-cpna,How does the volume sales year ago for the 'WHEAT BEERS' segment compare between the top 3 brands in the 'MAT YA' period?,Complex
-cpna,"How does the weighted distribution 4 weekly for 'PERONI' brand compare across 'Area 1', 'Area 2', 'Area 3', and 'Area 4' in 'MAT TY'?",Complex
-cpna,How does the 'CLASSIC LAGER' segment's volume sales in 'Area 1' compare to 'Area 2' in the 'MAT TY' time period?,Complex
+cpna,"What is the average price to consumer for 'MORETTI' across different pack types in 'YTD TY', and how does it impact its volume sales?",Simple
+cpna,How does the volume sales year ago for the 'WHEAT BEERS' segment compare between the top 3 brands in the 'MAT YA' period?,Simple
+cpna,"How does the weighted distribution 4 weekly for 'PERONI' brand compare across 'Area 1', 'Area 2', 'Area 3', and 'Area 4' in 'MAT TY'?",Simple
+cpna,How does the 'CLASSIC LAGER' segment's volume sales in 'Area 1' compare to 'Area 2' in the 'MAT TY' time period?,Simple
 cpna,How does the average price to consumer for the 'FLAVORED' segment in 'Area 1' during 'MAT TY' compare to 'MAT YA'?,Simple
 cpna,"Which manufacturer's products have the highest volume market share in 'Area 1' during 'MAT TY', and what is the main contributing segment?",Simple
-cpna,Which AB InBev sub-brands have shown the highest percentage change in volume from 'LP YA' to 'LP TY' in the total market?,Complex
+cpna,Which AB InBev sub-brands have shown the highest percentage change in volume from 'LP YA' to 'LP TY' in the total market?,Simple
 cpna,Which AB InBev brands have shown the highest percentage change in volume market share from 'MAT YA' to 'MAT TY'?,Simple
 cpna,Which AB InBev sub-brands have shown the highest percentage change in revenue from 'MAT YA' to 'MAT TY'?,Simple
 cpna,Which AB InBev brands have shown the highest percentage change in value market share from 'YTD YA' to 'YTD TY'?,Simple
